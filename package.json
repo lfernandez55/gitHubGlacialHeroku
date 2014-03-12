@@ -1,0 +1,15 @@
+{
+  "name": "myHerokuApp",
+  "version": "0.0.0",
+  "description": "my first heroku app",
+  "main": "web.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Luke",
+  "license": "ISC",
+  "dependencies": {
+    "logfmt": "~0.21.0",
+    "express": "~3.5.0"
+  }
+}
